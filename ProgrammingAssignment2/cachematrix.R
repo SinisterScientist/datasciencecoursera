@@ -1,7 +1,6 @@
 ## These functions solve for the inverse of a matrix. The inverse
 ## of the matrix is cached, if this is the first solution to it.
-## Otherwise, the cached solution is retrieved. This minimizes
-## the required computations.
+## Otherwise, the cached solution is retrieved.
 ## To use: assign the result of makeCacheIndex to a variable.
 ## Pass that variable to cacheSolve
 
